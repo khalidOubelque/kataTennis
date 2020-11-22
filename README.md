@@ -35,27 +35,42 @@ Player  2 : nom du joueur2
 Score : (6 -1) (7-5) (1-0)
 Current game status : 15-30
 Match Status : in progress
- 
+
+
+
+
+
 Exemple 2
 Player  1 :  nom du joueur1
 Player  2 : nom du joueur2
 Score : (6 -1) (7-5) (0-0)
 Current game status : deuce
 Match Status : in progress
- 
+
+
+
+
 Exemple 3
 Player  1 :  nom du joueur1
 Player  2 : nom du joueur2
 Score : (6 -1) (7-5) (0-0)
 Current game status : advantage
 Match Status : in progress
- 
+
+
+
+
+
 Exemple 4
 Player 1 :  nom du joueur1
 Player 2 : nom du joueur2
 Score : (6 -1) (7-5) (6-0)
 Match Status : Player1 wins
- 
+
+
+
+
+
 Exemple 5
 Player 1 :  nom du joueur1
 Player 2 : nom du joueur2
