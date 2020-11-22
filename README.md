@@ -21,9 +21,10 @@ pour utiliser le conteneur IOC pour l'injection de dependances.
 
 Java 8 -> 11
 
-Maven 
+Maven 4
 
 ----------------------------------------------------------------------------------------Execution ---------------------------------------------------------------------- 
+
 Pour Tester, on lance la commande : $ mvn test
 
 Vous trouverez tous les tests dans le package kata.tennis.TennisGame , tous les tests sont couverts (+5 TU exemples de l'enonce)
