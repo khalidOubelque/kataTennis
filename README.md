@@ -1,6 +1,6 @@
 KATA Tennis Game
 
--------------Programme ---------------
+---------------------------------------------------------------Programme -----------------------------------------------------------------
 Le but est de modéliser un match de tennis entre 2 joueurs.
 Le programme doit permettre de faire gagner les points par un des 2 joueurs et de déterminer le score, le statut du jeu en cours 
 (0-0, 15-0, …. Deuce, advantage) ainsi que le statut de la partie (in Progress, player 1 wins, player 2 wins) selon la format si dessous :
@@ -17,15 +17,15 @@ Les messages error, info ..etc sont logges avec log4j.
 En se basant sur une architecture base sur le couplage faible entre les classe, Le projet peut être rapidement converti en projet Spring, 
 pour utiliser le conteneur IOC pour l'injection de dependances.
 
--------------Prérequis----------------
+----------------------------------------------------------------Prérequis---------------------------------------------------------------------------------
 
 Java 8 -> 11
-Maven : pour lancer les TU ->  mvn test
+Maven 
 
------------Execution ------------------- 
-Pour Tester, on lance la commande : mvn test
+------------------------------------------------------------------Execution ---------------------------------------------------------------------- 
+Pour Tester, on lance la commande : $ mvn test
 
-Vous trouverez tous les tests sur le  package kata.tennis.TennisGame , tous les tests sont couverts (+5 TU exemples de l'enonce)
+Vous trouverez tous les tests dans le package kata.tennis.TennisGame , tous les tests sont couverts (+5 TU exemples de l'enonce)
 
 Exemple 1 
 Player  1 :  nom du joueur1
