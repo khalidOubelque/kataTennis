@@ -14,9 +14,10 @@ Match Status : in progress
 Le livrable c'est un Projet Maven qui dispose des tests unitaires (JUnit 4.12) pour tester les differents fonctionnalites du programme.
 Les messages error, info ..etc sont logges avec log4j.
 
-En se basant sur une architecture base sur le couplage faible entre les classe, Le projet peut être rapidement converti en projet Spring, 
+En se basant sur une architecture base sur le couplage faible entre les classes, Le projet peut être rapidement converti en projet Spring, 
 pour utiliser le conteneur IOC pour l'injection de dependances.
 
+En se basant aussi sur le TDD (test driven development) pour la réalisation de ce programme.
 --------------------------------------------------------------------------------------Prérequis-------------------------------------------------------------------------------------------------------
 
 Java 8 -> 11
