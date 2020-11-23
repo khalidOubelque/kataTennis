@@ -1,7 +1,9 @@
-KATA Tennis Game
+#KATA Tennis Game
 
-Mots clés = JAVA 8,Maven, Log4j, TDD, JUNIT4, couplage faible, 
--------------------------------------------------------------------------------------Programme ---------------------------------------------------------------------------------------
+#Mots clés : 
+JAVA 8,Maven, Log4j, TDD, JUNIT4, couplage faible.
+
+#Programme
 Le but est de modéliser un match de tennis entre 2 joueurs.
 Le programme doit permettre de faire gagner les points par un des 2 joueurs et de déterminer le score, le statut du jeu en cours 
 (0-0, 15-0, …. Deuce, advantage) ainsi que le statut de la partie (in Progress, player 1 wins, player 2 wins) selon la format si dessous :
@@ -19,13 +21,14 @@ En se basant sur une architecture base sur le couplage faible entre les classes,
 pour utiliser le conteneur IOC pour l'injection de dependances.
 
 En se basant aussi sur le TDD (test driven development) pour la réalisation de ce programme.
---------------------------------------------------------------------------------------Prérequis-------------------------------------------------------------------------------------------------------
+
+#Prérequis
 
 Java 8 -> 11
 
 Maven 4
 
-----------------------------------------------------------------------------------------Execution ---------------------------------------------------------------------- 
+#Execution
 
 Pour Tester, on lance la commande : $ mvn test
 
