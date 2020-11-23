@@ -1,5 +1,6 @@
 KATA Tennis Game
 
+Mots clés = JAVA 8,Maven, Log4j, TDD, JUNIT4, couplage faible, 
 -------------------------------------------------------------------------------------Programme ---------------------------------------------------------------------------------------
 Le but est de modéliser un match de tennis entre 2 joueurs.
 Le programme doit permettre de faire gagner les points par un des 2 joueurs et de déterminer le score, le statut du jeu en cours 
